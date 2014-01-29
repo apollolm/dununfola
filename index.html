@@ -61,18 +61,14 @@
                 <h2>Site to host musical digital content regarding West African drumming.</h2>
             </header>
 
-            <section id="downloads" class="clearfix">
-                <a href="#Rhythms" id="download-zip" class="button"><span>Rhythms</span></a>
-                <a href="https://github.com/apollolm/dununfola/tarball/master" id="download-tar-gz" class="button"><span>Browse Audio</span></a>
-                <a href="https://github.com/apollolm/dununfola" id="view-on-github" class="button"><span>Percussion Studio</span></a>
-            </section>
-
             <hr>
             <section id="main_content">
                 <h3>
                     <a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to Dununfola.com</h3>
 
                 <p>Listed below is a subset of rhythms for which we're compiling audio and <a href="http://www.moosware.net/PercussionStudio/" target="_blank">Percussion Studio</a> files to help you learn and practice West African drumming.</p>
+            
+                <p><strong>Click on a rhythm on the left to see any audio, Percussion Studio, videos or notes for that rhythm.</strong></p>
             </section>
             <div id="wrapper" class="clearfix">
                 <section id="leftPanel" style="float: left;">
@@ -115,10 +111,11 @@
 
                             //Then write Content
                             $.each(contents, function (cidx, citem) {
-                                if (section == "videos") {
+                                if (section == "videos" || section == "notes") {
                                     //Embed HTML video
                                     $("#detailsPanel").append($(citem));
                                 }
+                                
                                 else {
                                     //Write a li
                                     $("<li><a href='" + citem + "' target='_blank'>" + citem + "</a></li>").appendTo($("#" + section));
