@@ -15,6 +15,8 @@ var rhythms = {
 
 "Dibon": { audio : ["Billy Konate - Dibon.mp3", "Wulabakan - Dibon.mp3"], pcfiles : ["Dibon 2.pcc", "Dibon 3.pcc"] },
 
+"Dibon - 6 Measure": { audio : ["Mansa Camio - Dibon.mp3", "village recording [baro] kassa dibon.mp3"], pcfiles : ["Dibon_6_measure.pcc"] },
+
 "Dunun Kura": { audio : [], pcfiles : ["Dunun Kura [Nyewa Kodo].pcc"] },
 
 "Dunungbe": { audio : [], pcfiles : ["Dunungbe (1).pcc", "dunungbe echauff only.pcc", "Dunungbe variation.pcc", "Dunungbe w echauff.pcc", "Dunungbe.pcc"] },
@@ -33,6 +35,8 @@ var rhythms = {
 
 "Kassa Ni Soro": { audio : ["Antioquia - Kassa Ni Soro.mp3", "Noumoudy Keita - Kassalissoro.mp3"], pcfiles : ["Kassa ni Soro root.pcc"] },
 
+"Konden": { audio : ["Konden-Baro village recording.mp3","Konden-billy konate.mp3", "Konden-sekou conde.mp3","Konden-fadouba oulare.mp3", "Konden-Famoudou Konate.mp3", "Konden-famoudou workshop, guinea", "Konden-ibro konate.mp3", "Konden-Lamine Boka Camara.wma"  ], pcfiles : [] },
+
 "Konkoba": { audio : [], pcfiles : ["konkoba.pcc"] },
 
 "Konmasi": { audio : [], pcfiles : ["Konmasi.pcc"] },
@@ -46,6 +50,8 @@ var rhythms = {
 "Moribayassa": { audio : [], pcfiles : ["moribayassa w mamady break.pcc"] },
 
 "N'fakaba": { audio : ["Diarra Konate - NFa Kaba.mp3", "Famoudou - K n wule II Nfakaba.mp3", "Mamady Keita - Donaba, Nfakaba.mp3", "Moussa konde - Nfakaba.mp3"], pcfiles : ["Nfa Kaba.pcc"], notes: ["<p>Here's a link to my 4 recordings of N'fakaba:</p><a href=\"https://www.dropbox.com/sh/mhq6yb6f9lcwzkn/aTpjcSqUYp\" target=\"_blank\">https://www.dropbox.com/sh/mhq6yb6f9lcwzkn/aTpjcSqUYp</a><p>1) Diarra Konate - N'fakaba from start to finish.</p><p>2) Famoudou Konate - song/narration by a djelimoussa, then Konowulen II comes in at 1:04. N'fakaba starts at 2:55 with song starting at 3:55.</p><p>3) Mamady Keita - starts w Donaba. N'fakaba starts at 3:33.</p><p>4) Moussa Konde - this is my favorite for D var's, but the kenkeni is absent. Was recorded in the village of Kouroussa, Hamanah.</p><p>What I realized after listening to these is that, unlike what I originally thought and said--that the S&D players do a lot of improvising in the 2nd half of the rhythm (due to Cali boys playing it that way)--the S does very little improv, if any, in the 2nd half, in all 4 of these recordings, while the D does lots of improvising throughout the whole cycle.I wouldn't mind playing it either way though.Enjoy!K.</p>"] },
+
+"N'gri": { audio : ["Folon foli-ngri-wasulunka.mp3"], pcfiles : [] },
 
 "Senefoli/Soro": { audio : [], pcfiles : ["Senefoli.pcc"] },
 
