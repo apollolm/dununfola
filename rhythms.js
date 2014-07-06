@@ -9,7 +9,7 @@ var rhythms = {
 
 "Bando Djeli": { audio : [], pcfiles : ["Bando Djeli root and echauff.pcc"] },
 
-"Bolo Konondo": { audio : [], pcfiles : ["Bolokonondo.pcc"], videos : ['<iframe width="560" height="315" src="http://www.youtube.com/embed/VHRsj5EzcQ4?list=PLC5AAFA21E68EED43" frameborder="0" allowfullscreen></iframe>'] },
+"Bolo Konondo": { audio : [], pcfiles : ["Bolokonondo.pcc", "Bolokonondo_DBell.pcc"], videos : ['<iframe width="560" height="315" src="http://www.youtube.com/embed/VHRsj5EzcQ4?list=PLC5AAFA21E68EED43" frameborder="0" allowfullscreen></iframe>'] },
 
 "Demosoni Kelen": { audio : [], pcfiles : ["Demosoni Kelen w echauffe.pcc", "Demosoni Kelen.pcc"] },
 
