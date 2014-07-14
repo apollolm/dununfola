@@ -47,7 +47,7 @@ var rhythms = {
 
 "Maraka": { audio : [], pcfiles : ["maraka.pcc"] },
 
-“Mendiani”: { audio: [], pcfiles: [“Mendiani_root_&_sparse.pcc”]},
+"Mendiani": { audio: [], pcfiles: ["Mendiani_root_&_sparse.pcc"]},
 
 "Moribayassa": { audio : [], pcfiles : ["moribayassa w mamady break.pcc"] },
 
