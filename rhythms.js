@@ -17,6 +17,8 @@ var rhythms = {
 
 "Dibon - 6 Measure": { audio : ["Mansa Camio - Dibon.mp3", "village recording [baro] kassa dibon.mp3"], pcfiles : ["Dibon_6_measure.pcc"] },
 
+"Djaa & Long Break": { audio : [], pcfiles : ["Djaa w long break.pcc"] },
+
 "Dunun Kura": { audio : [], pcfiles : ["Dunun Kura [Nyewa Kodo].pcc"] },
 
 "Dunungbe": { audio : [], pcfiles : ["Dunungbe (1).pcc", "dunungbe echauff only.pcc", "Dunungbe variation.pcc", "Dunungbe w echauff.pcc", "Dunungbe.pcc"] },
@@ -35,7 +37,7 @@ var rhythms = {
 
 "Kassa Ni Soro": { audio : ["Antioquia - Kassa Ni Soro.mp3", "Noumoudy Keita - Kassalissoro.mp3"], pcfiles : ["Kassa ni Soro root.pcc"] },
 
-"Konden": { audio : ["Konden-Baro village recording.mp3","Konden-billy konate.mp3", "Konden-sekou conde.mp3","Konden-fadouba oulare.mp3", "Konden-Famoudou Konate.mp3", "Konden-famoudou workshop, guinea", "Konden-ibro konate.mp3", "Konden-Lamine Boka Camara.wma"  ], pcfiles : [] },
+"Konden": { audio : ["Konden-Baro village recording.mp3","Konden-billy konate.mp3", "Konden-sekou conde.mp3","Konden-fadouba oulare.mp3", "Konden-Famoudou Konate.mp3", "Konden-famoudou workshop, guinea", "Konden-ibro konate.mp3", "Konden-Lamine Boka Camara.wma"  ], pcfiles : ["konden, ech, special break.pcc"] },
 
 "Konkoba": { audio : [], pcfiles : ["konkoba.pcc"] },
 
